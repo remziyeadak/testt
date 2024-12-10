@@ -1,0 +1,2 @@
+# testt
+bu test amaçlıdır.
